@@ -22,4 +22,4 @@ Weight Loss Journey este o aplicație GUI dezvoltată în Python, care ajută ut
 📥 Instalare și rulare
 
 1️⃣ Clonează repository-ul:
-git clone 
+git clone https://github.com/silvia523/Weight-Loss-Journey/tree/main
